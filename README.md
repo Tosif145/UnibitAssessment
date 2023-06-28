@@ -1,7 +1,5 @@
 # UnibitAssessment
 
-package TosifPackage;
-
 import java.util.*;
 
 
