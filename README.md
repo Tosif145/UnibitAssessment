@@ -69,15 +69,6 @@ public class Unibit
     }
 
     public static void main(String[] args) {
-        // Taking input from the user
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.print("Enter the elements of the array (space-separated): ");
-//        String input = scanner.nextLine();
-//        int[] nums = Arrays.stream(input.split(" ")).mapToInt(Integer::parseInt).toArray();
-//
-//        System.out.print("Enter the target value: ");
-//        int target = scanner.nextInt();
-
         // Given sample input
         int[] nums = {1, 3, 2, 2, -4, -6, -2, 8};
         int target = 4;
